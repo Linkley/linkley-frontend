@@ -13,7 +13,7 @@ Linkley is a private link sharing tool that provides a secure way to share links
 
 ### Visualization of the codebase <br/>
 
-<img src="./diagram.svg" width="750px">
+<img src="./diagram.svg" width="600px">
 
 ## Features
 
