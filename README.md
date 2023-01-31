@@ -11,7 +11,9 @@ Linkley is a private link sharing tool that provides a secure way to share links
 - React.js
 - Tailwind CSS
 
-![Visualization of the codebase](./diagram.svg)
+### Visualization of the codebase <br/>
+
+<img src="./diagram.svg" width="250px">
 
 ## Features
 
