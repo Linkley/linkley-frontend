@@ -17,7 +17,7 @@ const Header = () => {
                 </a>
               </li>
               <li>
-                <a href="#Home" class="block py-2 pl-3 pr-4 text-gray-700">
+                <a href="#About" class="block py-2 pl-3 pr-4 text-gray-700">
                   About
                 </a>
               </li>
